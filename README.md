@@ -1,4 +1,4 @@
-# animales-salvajes
+# Animales-Salvajes
    
 Animales Salvajes es un proyecto que simula un sitio web en donde se ingresan comentarios acerca de animales salvajes en Australia.
 
