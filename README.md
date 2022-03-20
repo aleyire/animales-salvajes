@@ -7,10 +7,15 @@ Este proyecto es una prueba por lo que no esta en desarrollo ni es un sitio web.
 Las habilidades a evaluar son:
 
 ● Crear clases con herencias.
+
 ● Exportar e importar módulos.
+
 ● Crear funciones autoejecutables IIFE.
+
 ● Crear funciones async / await.
+
 ● Crear instancias de clases.
+
 ● Obtener y modificar elementos del DOM
 
 Visualización del proyecto
