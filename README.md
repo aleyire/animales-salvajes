@@ -18,6 +18,10 @@ Las habilidades a evaluar son:
 
 ● Obtener y modificar elementos del DOM
 
-Visualización del proyecto
+### Visualización del proyecto
 
 ![](https://github.com/aleyire/animales-salvajes/blob/main/assets/imgs/preview.png)
+
+### Diagrama de Clases
+
+![](https://github.com/aleyire/animales-salvajes/blob/main/assets/imgs/diagrama-clases.png)
